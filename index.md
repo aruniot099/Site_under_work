@@ -9,11 +9,11 @@
 <body>
     <header>
         <h1>Clothing Store</h1>
-        <p>Welcome to our online store!</p>
+        <p>Welcome to Gajula Chennaiah's Car!</p>
     </header>
-    <section class="product">
-        <img src="shirt.jpg" alt="Shirt">
-        <h2>Stylish Shirt</h2>
+    <section class="Baleno">
+        <img src="car_pic.jpg" alt="Shirt">
+        <h2>CNG VERSION</h2>
         <p class="price">$19.99</p>
         <button>Add to Cart</button>
     </section>
